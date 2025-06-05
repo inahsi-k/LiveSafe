@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996322536000",
+    "project_id": "jansuraksha-876ef",
+    "storage_bucket": "jansuraksha-876ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996322536000:android:5ef819e04dcef4851f4da5",
+        "android_client_info": {
+          "package_name": "com.example.jansuraksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996322536000-ke0hjtkdpmpq9c1efrd4vktqt2mkgksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbhTgSe9fiumMHRcfrP4Updj93yUsMI18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996322536000-ke0hjtkdpmpq9c1efrd4vktqt2mkgksg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

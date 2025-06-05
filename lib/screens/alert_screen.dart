@@ -4,7 +4,7 @@ import 'package:jansuraksha/widgets/custom_alert_button.dart';
 import 'package:jansuraksha/widgets/custom_text.dart';
 
 class AlertScreen extends StatelessWidget {
-  AlertScreen({super.key});
+  const AlertScreen({super.key});
   
   @override
   Widget build(BuildContext context) {
