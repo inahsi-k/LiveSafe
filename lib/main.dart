@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:jansuraksha/screens/login.dart';
-import 'package:jansuraksha/wrapper/navbar.dart';
 
 void main() {
   runApp(const MyApp());
