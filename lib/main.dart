@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jansuraksha/screens/login.dart';
+import 'package:jansuraksha/screens/risk_level_predictor.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: false,
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: Login()
+      home: RiskLevelPredictor()
     );
   }
 }

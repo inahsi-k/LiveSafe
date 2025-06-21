@@ -18,7 +18,7 @@ class AlertScreen extends StatelessWidget {
         title: Center(
           child: CustomText(
             text: "LiveSafe",
-            size: 25,
+            size: 28,
             color: Colors.white,
             weight: FontWeight.bold,
           ),
